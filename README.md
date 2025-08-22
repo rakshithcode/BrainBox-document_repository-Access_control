@@ -1,7 +1,7 @@
 # 🧠 BrainBox-document_repository-Access_control
 
 
-This project demonstrates a **Role-Based Access Control (RBAC)** implementation using **Spring Boot**, **Spring Security**, and **MySQL**. It supports multiple user roles with different levels of access to an **Article Management System**.
+This project demonstrates a **Role-Based Access Control (RBAC)**  ans **Document Repository** implementation using **Spring Boot**, **Spring Security**, and **MySQL**. It supports multiple user roles with different levels of access to an **Article Management System**.
 
 ## 🗂️ Project Structure
 
